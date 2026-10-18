@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#5B3DF5</color>
+    <!-- Light window background, used before Compose takes over -->
+    <color name="vi_window_background">#F6F5FB</color>
+</resources>
